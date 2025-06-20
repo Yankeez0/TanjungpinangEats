@@ -6,7 +6,7 @@ Proyek tugas kelompok
 
 # Deskripsi
 TanjungPinangEats adalah website katalog restoran di Tanjungpinang yang memudahkan pengguna menemukan tempat makan terbaik berdasarkan kategori, rating, dan menu.
-Website ini menampilkan berbagai restoran, kafe, food court, hingga street food, lengkap dengan detail menu, lokasi, jam buka, dan ulasan.
+Website ini menampilkan berbagai restoran, kafe, food court, hingga street food, lengkap dengan detail menu, lokasi, jam buka, dan ulasan..
 
 # Fitur Utama
 ### Landing Page Modern
